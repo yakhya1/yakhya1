@@ -9,7 +9,7 @@
 <!-- 
 - Web illustrations by Storyset ( https://storyset.com/web ) - -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+
 
 
 <br>
@@ -20,7 +20,7 @@
 
 🏫I am currently learning new web technologies.
 
-📫 How to contact me: mansur72095@gmail.com
+📫 How to contact me: gaitukaev777@mail.ru
 
 🤝 Looking for new acquaintance in the IT sphere
 
@@ -31,10 +31,10 @@
 <br>
 
 <div align="center">
-<h4> How to reach me: </h4>
+<h4> Мой телеграм: </h4>
   <br/>
-  <a href="https://t.me/shishaneee">
-  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
+  <a href="https://t.me/gaitukaev">
+  <img alt="Telegram" src="https://t.me/gaitukaev" />
 </a>
 </div>
 <br/>
