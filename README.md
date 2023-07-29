@@ -8,7 +8,7 @@
 <br>
 <!-- 
 - Web illustrations by Storyset ( https://storyset.com/web ) - -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+
 
 
 
@@ -34,7 +34,7 @@
 <h4> Мой телеграм: </h4>
   <br/>
   <a href="https://t.me/gaitukaev">
-  <img alt="Telegram" src="https://t.me/gaitukaev" />
+  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 </div>
 <br/>
