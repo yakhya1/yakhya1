@@ -48,4 +48,4 @@
   <summary>⚙️ &nbsp;GitHub Analytics</summary>
     <br/>
     <div align="center">
-<img alt="Top Langs" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishanee&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/shishanee" />
+<img alt="Top Langs" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakhya1&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/yakhya1" />
